@@ -53,10 +53,16 @@
 
 ---
 
-### 🔥 GitHub Stats  
+### 📊 GitHub Analytics  
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nidhinjoy12&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true" height="160px">
+  
+<img src="https://github-contributor-stats.vercel.app/api?username=nidhinjoy12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinjoy12&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
