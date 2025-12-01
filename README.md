@@ -61,4 +61,11 @@
 
 ---
 
+### 🧩 Most Used Languages  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinjoy12&layout=normal&theme=tokyonight&hide_border=true&langs_count=6">
+</p>
+
+---
+
 <p align="center"><b>⭐ Thanks for visiting! Let's connect and build something amazing 🤝</b></p>
