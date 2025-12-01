@@ -34,8 +34,13 @@
 
 ### 🏆 Certifications  
 <p>
-<img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?logo=amazonaws&logoColor=white">
+<a href="https://learn.microsoft.com/en-us/users/nidhinjoy-6440/credentials/d573147e0e81fa43?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/533536e7-5a53-48d4-91cf-498a309e853c" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?logo=amazonaws&logoColor=white">
+</a>
 </p>
 
 ---
