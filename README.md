@@ -59,13 +59,6 @@
 
 ---
 
-### 🧩 Top Languages  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinjoy12&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
 ### 👁️ Profile Views  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nidhinjoy12&style=for-the-badge&color=blue">
