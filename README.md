@@ -1,11 +1,15 @@
-<h1 align="center">👋 Hi, I'm <b>Nidhin Joy</b></h1>
 <p align="center">
-  <b>Computer Science Student | Cloud Certified | Tech Explorer</b><br>
-  A curious learner who enjoys exploring technology and improving skills through hands-on practice.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nidhin%20Joy&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Cloud%20Certified%20%7C%20Curious%20Learner&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nidhinjoy12&style=flat-square&color=blue">
+</p>
+
+<h1 align="center">👋 Hi, I'm <b>Nidhin Joy</b></h1>
+<p align="center">
+  <b>Computer Science Student | Cloud Certified | Tech Explorer</b><br>
+  A curious learner who enjoys exploring technology and improving skills through hands-on practice.
 </p>
 
 ---
