@@ -4,6 +4,10 @@
   A curious learner who enjoys exploring technology and improving skills through hands-on practice.
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nidhinjoy12&style=flat-square&color=blue">
+</p>
+
 ---
 
 <p align="center">
@@ -56,13 +60,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nidhinjoy12&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true" height="160px">
 </div>
-
----
-
-### 👁️ Profile Views  
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nidhinjoy12&style=for-the-badge&color=blue">
-</p>
 
 ---
 
