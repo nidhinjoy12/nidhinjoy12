@@ -6,12 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=nidhinjoy12&style=flat-square&color=blue">
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Nidhin Joy</b></h1>
-<p align="center">
-  <b>Computer Science Student | Cloud Certified | Tech Explorer</b><br>
-  A curious learner who enjoys exploring technology and improving skills through hands-on practice.
-</p>
-
 ---
 
 <p align="center">
@@ -62,9 +56,4 @@
 ### 🔥 GitHub Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nidhinjoy12&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true" height="160px">
-</div>
-
----
-
-<p align="center"><b>⭐ Thanks for visiting! Let's connect and build something amazing 🤝</b></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&them
