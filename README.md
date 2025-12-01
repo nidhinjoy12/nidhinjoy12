@@ -56,4 +56,9 @@
 ### 🔥 GitHub Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nidhinjoy12&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&them
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true" height="160px">
+</div>
+
+---
+
+<p align="center"><b>⭐ Thanks for visiting! Let's connect and build something amazing 🤝</b></p>
