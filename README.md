@@ -64,7 +64,7 @@
 ### 🔥 LeetCode Streak  
 <p align="center">
   <a href="https://leetcode.com/u/nidhinjoy22/">
-    <img src="https://leetcode-streak-stats.herokuapp.com/?user=nidhinjoy22&theme=tokyonight&hide_border=true" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=nidhinjoy22&theme=tokyonight" />
   </a>
 </p>
 
