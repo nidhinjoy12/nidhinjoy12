@@ -48,8 +48,8 @@
 ---
 
 ### 🎓 Education  
-- 🎓 B.Tech in CSE — FISAT (2022–2026)  
-- 📍 Thrissur, India  
+* 🎓 B.Tech in CSE — FISAT (2022–2026)  
+* 📍 Thrissur, India  
 
 ---
 
@@ -58,15 +58,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nidhinjoy12&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinjoy12&theme=tokyonight&hide_border=true" height="160px">
 </div>
-
----
-
-### 🔥 LeetCode Streak  
-<p align="center">
-  <a href="https://leetcode.com/u/nidhinjoy22/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=nidhinjoy22&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
