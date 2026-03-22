@@ -20,6 +20,10 @@
 
 <h2 align="center">👤 About Me</h2>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
+
 <p align="center">
   <i>Final-year B.Tech CSE student at FISAT, Thrissur — passionate about cloud computing, software development, and building meaningful tech. Currently exploring the intersection of cloud infrastructure and modern software engineering.</i>
 </p>
