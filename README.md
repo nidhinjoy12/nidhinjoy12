@@ -14,7 +14,9 @@
 
 <br/>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=800"/>
+</p>
 
 <h2 align="center">👤 About Me</h2>
 
@@ -34,7 +36,27 @@
 
 <br/>
 
----
+<!-- DIVIDER: glowing line with center gem -->
+<p align="center">
+<svg width="800" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="20%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#a371f7" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect y="18" width="800" height="1.5" fill="url(#dg1)" rx="1"/>
+  <circle cx="400" cy="19" r="5" fill="#a371f7"/>
+  <circle cx="400" cy="19" r="8" fill="none" stroke="#a371f7" stroke-width="1" opacity="0.4"/>
+  <circle cx="368" cy="19" r="2" fill="#58a6ff" opacity="0.7"/>
+  <circle cx="432" cy="19" r="2" fill="#58a6ff" opacity="0.7"/>
+  <circle cx="340" cy="19" r="1.5" fill="#58a6ff" opacity="0.35"/>
+  <circle cx="460" cy="19" r="1.5" fill="#58a6ff" opacity="0.35"/>
+</svg>
+</p>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -54,9 +76,78 @@
 
 <br/>
 
----
+<!-- DIVIDER: circuit board trace -->
+<p align="center">
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="15%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect y="14" width="800" height="1" fill="url(#cg)" opacity="0.5"/>
+  <rect x="148" y="9" width="9" height="9" rx="1.5" fill="#58a6ff" opacity="0.6"/>
+  <rect x="298" y="9" width="9" height="9" rx="1.5" fill="#a371f7" opacity="0.8"/>
+  <rect x="493" y="9" width="9" height="9" rx="1.5" fill="#a371f7" opacity="0.8"/>
+  <rect x="643" y="9" width="9" height="9" rx="1.5" fill="#58a6ff" opacity="0.6"/>
+  <line x1="152" y1="5" x2="152" y2="9" stroke="#58a6ff" stroke-width="1" opacity="0.5"/>
+  <line x1="302" y1="5" x2="302" y2="9" stroke="#a371f7" stroke-width="1" opacity="0.6"/>
+  <line x1="497" y1="5" x2="497" y2="9" stroke="#a371f7" stroke-width="1" opacity="0.6"/>
+  <line x1="647" y1="5" x2="647" y2="9" stroke="#58a6ff" stroke-width="1" opacity="0.5"/>
+</svg>
+</p>
 
 <h2 align="center">🧠 Technical Skills</h2>
+
+<!-- 3D floating pill skill overview -->
+<p align="center">
+<svg width="680" height="58" viewBox="0 0 680 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sk1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0078d4"/>
+    </linearGradient>
+    <linearGradient id="sk2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b1f6e"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+    <linearGradient id="sk3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a3a2e"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+    <linearGradient id="bbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <!-- shadow layer (3D depth) -->
+  <rect x="32"  y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <rect x="132" y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <rect x="232" y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <rect x="332" y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <rect x="432" y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <rect x="532" y="18" width="80" height="28" rx="14" fill="#000" opacity="0.25"/>
+  <!-- pill fills -->
+  <rect x="30"  y="14" width="80" height="28" rx="14" fill="url(#sk1)"/>
+  <rect x="130" y="14" width="80" height="28" rx="14" fill="url(#sk1)"/>
+  <rect x="230" y="14" width="80" height="28" rx="14" fill="url(#sk2)"/>
+  <rect x="330" y="14" width="80" height="28" rx="14" fill="url(#sk2)"/>
+  <rect x="430" y="14" width="80" height="28" rx="14" fill="url(#sk3)"/>
+  <rect x="530" y="14" width="80" height="28" rx="14" fill="url(#sk3)"/>
+  <!-- text -->
+  <text x="70"  y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">C / Java</text>
+  <text x="170" y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">Python</text>
+  <text x="270" y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">SQL</text>
+  <text x="370" y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">HTML / CSS</text>
+  <text x="470" y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">Git</text>
+  <text x="570" y="32" text-anchor="middle" fill="#ffffff" font-size="11" font-family="monospace" font-weight="600">GitHub</text>
+  <!-- bottom accent bar -->
+  <rect x="30" y="46" width="580" height="2" rx="1" fill="url(#bbar)" opacity="0.5"/>
+</svg>
+</p>
 
 <h3 align="center">⌨️ Languages</h3>
 <p align="center">
@@ -76,7 +167,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">🔧 Tools & Platforms</h3>
+<h3 align="center">🔧 Tools &amp; Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
@@ -89,7 +180,23 @@
 
 <br/>
 
----
+<!-- DIVIDER: pulse / heartbeat line -->
+<p align="center">
+<svg width="800" height="36" viewBox="0 0 800 36" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#3fb950" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#3fb950" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#3fb950" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <polyline points="0,18 100,18 130,8 150,28 170,8 190,28 220,18 800,18"
+    fill="none" stroke="url(#pg)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <circle cx="400" cy="18" r="3" fill="#3fb950" opacity="0.8"/>
+</svg>
+</p>
 
 <h2 align="center">🚀 Currently Learning</h2>
 
@@ -103,11 +210,61 @@
 
 <br/>
 
----
+<!-- DIVIDER: gold star trophy line -->
+<p align="center">
+<svg width="800" height="34" viewBox="0 0 800 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trophyg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="25%" stop-color="#e3b341" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#e3b341" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#e3b341" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect y="16" width="800" height="1.5" fill="url(#trophyg)" opacity="0.7" rx="1"/>
+  <polygon points="400,5 402.5,13 411,13 404.5,18 407,26 400,21 393,26 395.5,18 389,13 397.5,13"
+    fill="#e3b341" opacity="0.95"/>
+  <circle cx="360" cy="17" r="2" fill="#e3b341" opacity="0.5"/>
+  <circle cx="440" cy="17" r="2" fill="#e3b341" opacity="0.5"/>
+  <circle cx="320" cy="17" r="1.5" fill="#e3b341" opacity="0.3"/>
+  <circle cx="480" cy="17" r="1.5" fill="#e3b341" opacity="0.3"/>
+</svg>
+</p>
 
 <h2 align="center">🏆 Certifications</h2>
 
-<br/>
+<!-- 3D cert cards SVG -->
+<p align="center">
+<svg width="680" height="100" viewBox="0 0 680 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="az_g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a2240"/>
+      <stop offset="100%" stop-color="#0078d4"/>
+    </linearGradient>
+    <linearGradient id="aws_g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1000"/>
+      <stop offset="100%" stop-color="#c97a00"/>
+    </linearGradient>
+  </defs>
+  <!-- Azure cert card -->
+  <rect x="60"  y="10" width="240" height="76" rx="10" fill="#000" opacity="0.3"/>
+  <rect x="58"  y="8"  width="240" height="76" rx="10" fill="url(#az_g)"/>
+  <rect x="58"  y="8"  width="240" height="76" rx="10" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.4"/>
+  <rect x="58"  y="8"  width="10"  height="76" rx="5"  fill="#0078d4" opacity="0.9"/>
+  <text x="88"  y="38" fill="#ffffff" font-size="12" font-family="monospace" font-weight="700">Microsoft Azure</text>
+  <text x="88"  y="57" fill="#58a6ff" font-size="11" font-family="monospace">AZ-900 Fundamentals</text>
+  <text x="88"  y="74" fill="#8b949e" font-size="10" font-family="monospace">Verified ✓</text>
+  <!-- AWS cert card -->
+  <rect x="382" y="10" width="240" height="76" rx="10" fill="#000" opacity="0.3"/>
+  <rect x="380" y="8"  width="240" height="76" rx="10" fill="url(#aws_g)"/>
+  <rect x="380" y="8"  width="240" height="76" rx="10" fill="none" stroke="#ff9900" stroke-width="1" opacity="0.4"/>
+  <rect x="380" y="8"  width="10"  height="76" rx="5"  fill="#ff9900" opacity="0.9"/>
+  <text x="410" y="38" fill="#ffffff" font-size="12" font-family="monospace" font-weight="700">Amazon Web Services</text>
+  <text x="410" y="57" fill="#ffa657" font-size="11" font-family="monospace">Cloud Foundations</text>
+  <text x="410" y="74" fill="#8b949e" font-size="10" font-family="monospace">Verified ✓</text>
+</svg>
+</p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/nidhinjoy-6440/credentials/d573147e0e81fa43?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
@@ -125,26 +282,75 @@
 
 <br/>
 
----
+<!-- DIVIDER: purple timeline dot line -->
+<p align="center">
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edug" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="20%" stop-color="#a371f7" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#a371f7" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#a371f7" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect y="14" width="800" height="1.5" fill="url(#edug)" rx="1" opacity="0.7"/>
+  <rect x="391" y="7" width="18" height="14" rx="3" fill="#a371f7" opacity="0.9"/>
+  <text x="400" y="18" text-anchor="middle" fill="#ffffff" font-size="9" font-family="monospace" font-weight="600">EDU</text>
+  <circle cx="330" cy="14.5" r="2.5" fill="#a371f7" opacity="0.5"/>
+  <circle cx="470" cy="14.5" r="2.5" fill="#a371f7" opacity="0.5"/>
+</svg>
+</p>
 
 <h2 align="center">🎓 Education</h2>
 
+<!-- Animated timeline-style education block -->
+<p align="center">
+<svg width="680" height="108" viewBox="0 0 680 108" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edu_card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1e2a3a"/>
+    </linearGradient>
+    <linearGradient id="tl_line" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="8" width="600" height="90" rx="12" fill="#000" opacity="0.2"/>
+  <rect x="38" y="6" width="600" height="90" rx="12" fill="url(#edu_card)"/>
+  <rect x="38" y="6" width="600" height="90" rx="12" fill="none" stroke="#a371f7" stroke-width="1" opacity="0.35"/>
+  <rect x="78" y="16" width="3" height="70" rx="1.5" fill="url(#tl_line)"/>
+  <circle cx="79.5" cy="28" r="5" fill="#a371f7"/>
+  <circle cx="79.5" cy="75" r="5" fill="#58a6ff"/>
+  <text x="108" y="33" fill="#ffffff" font-size="13" font-family="monospace" font-weight="700">B.Tech — Computer Science &amp; Engineering</text>
+  <text x="108" y="52" fill="#8b949e" font-size="11" font-family="monospace">Federal Institute of Science And Technology (FISAT)</text>
+  <text x="108" y="69" fill="#58a6ff" font-size="11" font-family="monospace">2022 – 2026</text>
+  <text x="108" y="86" fill="#8b949e" font-size="11" font-family="monospace">Thrissur, India</text>
+</svg>
+</p>
+
 <br/>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="60">🎓</td>
-    <td>
-      <strong>Bachelor of Technology — Computer Science & Engineering</strong><br/>
-      <sub>Federal Institute of Science And Technology (FISAT) &nbsp;|&nbsp; 2022 – 2026</sub><br/>
-      <sub>📍 Thrissur, India</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
+<!-- DIVIDER: mini bar chart stats line -->
+<p align="center">
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="statg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="20%" stop-color="#58a6ff" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="80%" stop-color="#58a6ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect y="14" width="800" height="1.5" fill="url(#statg)" rx="1" opacity="0.7"/>
+  <rect x="388" y="5" width="4" height="18" rx="1" fill="#58a6ff" opacity="0.9"/>
+  <rect x="396" y="9" width="4" height="14" rx="1" fill="#58a6ff" opacity="0.7"/>
+  <rect x="380" y="11" width="4" height="12" rx="1" fill="#58a6ff" opacity="0.6"/>
+  <rect x="404" y="13" width="4" height="10" rx="1" fill="#58a6ff" opacity="0.5"/>
+</svg>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -164,7 +370,34 @@
 
 <br/>
 
----
+<!-- DIVIDER: gradient constellation footer line -->
+<p align="center">
+<svg width="800" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ftg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="20%" stop-color="#58a6ff" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#a371f7" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#58a6ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect y="19" width="800" height="2" fill="url(#ftg)" rx="1"/>
+  <circle cx="100" cy="20" r="1.5" fill="#58a6ff" opacity="0.5"/>
+  <circle cx="200" cy="20" r="1.5" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="300" cy="20" r="2"   fill="#a371f7" opacity="0.6"/>
+  <circle cx="400" cy="20" r="4.5" fill="#a371f7" opacity="0.9"/>
+  <circle cx="500" cy="20" r="2"   fill="#a371f7" opacity="0.6"/>
+  <circle cx="600" cy="20" r="1.5" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="700" cy="20" r="1.5" fill="#58a6ff" opacity="0.5"/>
+  <line x1="100" y1="20" x2="200" y2="20" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="200" y1="20" x2="300" y2="20" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="300" y1="20" x2="400" y2="20" stroke="#a371f7" stroke-width="0.5" opacity="0.3"/>
+  <line x1="400" y1="20" x2="500" y2="20" stroke="#a371f7" stroke-width="0.5" opacity="0.3"/>
+  <line x1="500" y1="20" x2="600" y2="20" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="600" y1="20" x2="700" y2="20" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
+</svg>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
