@@ -407,6 +407,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
 
+
+
+## 🚀 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/nidhinjoy22/">
+    <img src="https://leetcard.jacoblin.cool/nidhinjoy22?theme=dark&font=baloo&ext=contest&animation=true" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <b>⭐ Thanks for visiting! Let's connect and build something amazing 🤝</b>
 </p>
+
+
+
