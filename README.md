@@ -356,6 +356,20 @@
 </svg>
 </p>
 
+<!-- DIVIDER -->
+
+## 🚀 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/nidhinjoy22/">
+    <img src="https://leetcard.jacoblin.cool/nidhinjoy22?theme=dark&font=baloo&ext=contest&animation=true" />
+  </a>
+</p>
+
+
+
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <br/>
@@ -406,18 +420,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
-
-
-
-## 🚀 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/nidhinjoy22/">
-    <img src="https://leetcard.jacoblin.cool/nidhinjoy22?theme=dark&font=baloo&ext=contest&animation=true" />
-  </a>
-</p>
-
-
 
 
 
